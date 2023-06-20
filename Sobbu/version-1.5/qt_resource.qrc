@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/icon-hashing.png</file>
+    <file>icon/icon-paste.png</file>
+    <file>icon/icon-clear.png</file>
+    <file>icon/icon-copy.png</file>
+    <file>icon/icon-encrypt.png</file>
+    <file>icon/icon-encode.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>logo/logo-portal_it.png</file>
+    <file>logo/logo-sobbu.png</file>
+    <file>logo/logo-teknik.png</file>
+  </qresource>
+</RCC>
